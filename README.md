@@ -19,7 +19,7 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 - Pour télécharger l'application, mettez-vous sur le branche `master`, là où tout les fichiers sont présents et prêts à être télécharger.
 - Télécharger le `.zip` ou récupérez les fichiers via un clone du répertoire ave la commande:
 ```bash
-git clone 
+git clone https://github.com/flem-anthony/application-graphes-mpm.git
 ```
 
 ### 2. Compilation
