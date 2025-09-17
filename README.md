@@ -18,12 +18,10 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 ### 1. Compilation
 Assurez-vous que le fichier `compile.list` contient la liste de tous les fichiers source à compiler.
 Depuis le dossier contenant vos fichiers `.java` :
-
 - Pour les terminaux Linux:
 ```bash
 javac @compile.list -d ../class
 ```
-
 - Pour les terminaux Windows:
 ```bash
 javac (Get-content compile.list) -d ../class  
