@@ -11,7 +11,7 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 ## 🛠️ Langage de programmation
 - **Langage**     : Java
 - **Compilation** : via un fichier `compile.list`
-- **Exécution**   : standard Java via la classe principale
+- **Exécution**   : via la classe principale `Controleur`
 
 ## 🚀 Installation et exécution
 
