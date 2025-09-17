@@ -1,4 +1,4 @@
-# Application de création et gestion de graphes MPM
+# Application de création et de gestion de graphes MPM
 Cette application permet de créer, visualiser et gérer des graphes MPM (Méthode des Potentiels Métra), principalement utilisés pour la gestion de projets en entreprise. 
 Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieurs chemin(s) critique(s), et de visualiser la structure du projet.
 
