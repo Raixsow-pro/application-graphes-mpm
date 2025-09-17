@@ -15,7 +15,14 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 
 ## 🚀 Installation et exécution
 
-### 1. Compilation
+### 1. Téléchargement des fichiers
+- Pour télécharger l'application, mettez-vous sur le branche `master`, là où tout les fichiers sont présents et prêts à être télécharger.
+- Télécharger le `.zip` ou récupérez les fichiers via un clone du répertoire ave la commande:
+```bash
+git clone 
+```
+
+### 2. Compilation
 Assurez-vous que le fichier `compile.list` contient la liste de tous les fichiers source à compiler.
 Depuis le dossier contenant vos fichiers `.java` :
 - Pour les terminaux Linux:
@@ -27,7 +34,7 @@ javac @compile.list -d ../class
 javac (Get-content compile.list) -d ../class  
 ```
 
-### 2. Exécution
+### 3. Exécution
 Un répertoire `class` vient, normalement, d'être créé. Assurez-vous que ce soit le cas.
 Déplacez-vous dans ce répertoire avec la commande:
 ```bash
