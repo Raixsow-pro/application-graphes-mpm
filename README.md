@@ -23,7 +23,7 @@ git clone https://github.com/flem-anthony/application-graphes-mpm.git
 ```
 puis
 ```bash
-git push
+git pull
 ```
 
 ### 2. Compilation
