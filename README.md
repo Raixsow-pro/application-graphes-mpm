@@ -10,7 +10,7 @@ Cette application Java permet de créer, visualiser et gérer des graphes MPM (M
 - Interface utilisateur (console ou graphique selon version)
 - Visualisation structurée des graphes (selon l'implémentation)
 
-## 🛠️ Technologies utilisées
+## 🛠️ Langage de programmation
 
 - **Langage** : Java
 - **Compilation** : via un fichier `compile.list` et la commande `javac`
