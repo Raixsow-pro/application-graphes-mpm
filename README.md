@@ -29,6 +29,6 @@ Déplacez-vous dans ce répertoire et exécutez la commande:
 java MPM.Controleur
 ```
 
-### 3. Prêt pour gérer vos projets
+### 3. Prête pour gérer vos projets
 Maintenant, vous pouvez gérer vos projets via la méthode des Potentiels Métra.
 😄 Bon courage à vous ! 😄
