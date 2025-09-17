@@ -3,16 +3,15 @@ Cette application permet de créer, visualiser et gérer des graphes MPM (Métho
 Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieurs chemin(s) critique(s), et de visualiser la structure du projet.
 
 ## ✨ Fonctionnalités principales
-- Création de tâches et de dépendances entre elles
-- Génération et gestion de graphes MPM
+- Création, modification et suppression de tâches
 - Calcul automatique du chemin critique
-- Interface utilisateur (console ou graphique selon version)
-- Visualisation structurée des graphes (selon l'implémentation)
+- Interface Utilisateur Graphique
+- Implémentation d'un système de date pour gérer les délais (En nombre de jours ou en date)
 
 ## 🛠️ Langage de programmation
-- **Langage** : Java
-- **Compilation** : via un fichier `compile.list` et la commande `javac`
-- **Exécution** : standard Java via la classe principale
+- **Langage**     : Java
+- **Compilation** : via un fichier `compile.list`
+- **Exécution**   : standard Java via la classe principale
 
 ## 🚀 Installation et exécution
 
