@@ -21,7 +21,7 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 ```bash
 git clone https://github.com/flem-anthony/application-graphes-mpm.git
 ```
-puis
+puis effectuez un pull du répertoire pour le récupérer:
 ```bash
 git pull
 ```
