@@ -31,7 +31,11 @@ javac (Get-content compile.list) -d ../class
 
 ### 2. Exécution
 Un répertoire `class` vient, normalement, d'être créé. Assurez-vous que ce soit le cas.
-Déplacez-vous dans ce répertoire et exécutez la commande:
+Déplacez-vous dans ce répertoire avec la commande:
+```bash
+cd ../class
+```
+et exécutez la commande:
 ```bash
 java MPM.Controleur
 ```
