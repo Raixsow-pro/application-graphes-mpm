@@ -23,7 +23,7 @@ javac @compile.list -d ../class
 ```
 
 ### 2. Exécution
-Un répertoire `class` vient, normalement, d'être créé. Assurez que ce soit le cas.
+Un répertoire `class` vient, normalement, d'être créé. Assurez-vous que ce soit le cas.
 Déplacez-vous dans ce répertoire et exécutez la commande:
 ```bash
 java MPM.Controleur
