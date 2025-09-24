@@ -15,6 +15,7 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 
 ## 🖼️ Prévisualisation de l'application
 
+![Capture](./images/MPM.png)
 
 ## 🚀 Installation et exécution
 
