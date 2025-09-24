@@ -6,27 +6,20 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 - Création, modification et suppression de tâches
 - Calcul automatique du chemin critique
 - Interface Utilisateur Graphique
-- Implémentation d'un système de date pour gérer les délais (En nombre de jours ou en date)
+- Implémentation d'un système de date pour gérer les délais (En nombre de jours ou en daate)
 
 ## 🛠️ Langage de programmation
 - **Langage**     : Java
 - **Compilation** : via un fichier `compile.list`
 - **Exécution**   : via la classe principale `Controleur`
 
+## 🖼️ Prévisualisation de l'application
+
+![Capture](./images/MPM.png)
+
 ## 🚀 Installation et exécution
 
-### 1. Téléchargement des fichiers
-- Pour télécharger l'application, mettez-vous sur le branche `master`, là où tout les fichiers sont présents et prêts à être télécharger.
-- Téléchargez le `.zip` ou récupérez les fichiers via un clone du répertoire avec la commande:
-```bash
-git clone https://github.com/flem-anthony/application-graphes-mpm.git
-```
-puis effectuez un pull du répertoire pour le récupérer:
-```bash
-git pull
-```
-
-### 2. Compilation
+### 1. Compilation
 Assurez-vous que le fichier `compile.list` contient la liste de tous les fichiers source à compiler.
 Depuis le dossier contenant vos fichiers `.java` :
 - Pour les terminaux Linux:
@@ -38,7 +31,7 @@ javac @compile.list -d ../class
 javac (Get-content compile.list) -d ../class  
 ```
 
-### 3. Exécution
+### 2. Exécution
 Un répertoire `class` vient, normalement, d'être créé. Assurez-vous que ce soit le cas.
 Déplacez-vous dans ce répertoire avec la commande:
 ```bash
