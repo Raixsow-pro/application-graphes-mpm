@@ -13,9 +13,8 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 - **Compilation** : via un fichier `compile.list`
 - **Exécution**   : via la classe principale `Controleur`
 
-## Prévisualisation de l'application
+## 🖼️ Prévisualisation de l'application
 
-![Capture](https://drive.google.com/drive/u/0/folders/1HKTi0cqamCGPTBENob0OM5WCDnRi8tL_)
 
 ## 🚀 Installation et exécution
 
