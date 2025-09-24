@@ -15,7 +15,7 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 
 ## Prévisualisation de l'application
 
-![Capture](https://drive.google.com/file/d/1mohItjJJbDQGO1vui-S2zOPtaQpTksy8/view?usp=sharing)
+![Capture](https://drive.google.com/drive/u/0/folders/1HKTi0cqamCGPTBENob0OM5WCDnRi8tL_)
 
 ## 🚀 Installation et exécution
 
