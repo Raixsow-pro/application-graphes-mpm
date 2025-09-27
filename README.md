@@ -41,7 +41,3 @@ et exécutez la commande:
 ```bash
 java MPM.Controleur
 ```
-
-### 3. Application prête pour gérer vos projets
-Maintenant, vous pouvez gérer vos projets via la méthode des Potentiels Métra.
-😄 Bon courage à vous ! 😄
