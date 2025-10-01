@@ -37,6 +37,9 @@ Déplacez-vous dans ce répertoire avec la commande:
 ```bash
 cd ../class
 ```
+
+## 👪 Collaborateurs du projet
+
 et exécutez la commande:
 ```bash
 java MPM.Controleur
